@@ -5,8 +5,8 @@
 ![VSCode](https://img.shields.io/badge/-VSCodium-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
 
 
-![Haskell](https://img.shields.io/badge/-Haskell-5e5086?logo=haskell&logoColor=white&style=flat-square)(https://www.haskell.org/)
-![Agda](https://img.shields.io/badge/-Agda-B7178C?logo=agda&logoColor=white&style=flat-square)(https://github.com/agda/agda)
+![Haskell](https://img.shields.io/badge/-Haskell-5e5086?logo=haskell&logoColor=white&style=flat-square)
+![Agda](https://img.shields.io/badge/-Agda-B7178C?logo=agda&logoColor=white&style=flat-square)
 
 
 
@@ -14,7 +14,7 @@
 ![Category_Theory](https://img.shields.io/badge/Category_Theory-%2373C5E8?style=for-the-badge&logoColor=white)
 
 
-![Cat](https://img.shields.io/badge/❤️-钰-FFB121?style=for-the-badge)(https://github.com/Huayu-Guo)
+[![Cat](https://img.shields.io/badge/❤️-钰-FFB121?style=for-the-badge)](https://github.com/Huayu-Guo)
 ![Cat](https://img.shields.io/badge/🐱-zhaocai-FFB6C1?style=for-the-badge)
 
 
