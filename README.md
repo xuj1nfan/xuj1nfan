@@ -1,5 +1,5 @@
 # Xu jinfan
-### 🤔
+
 ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white&style=flat-square)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white&style=flat-square)
 ![VSCode](https://img.shields.io/badge/-VSCodium-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
